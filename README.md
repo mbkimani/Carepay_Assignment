@@ -4,6 +4,6 @@
 
 ### 2. The .sql files Diagnosis_Invoice_Item.sql and Product_Invoice_Item.sql contain procedures for materializing view in the schema.
 
-### Exploratory Data Analyses in the Respective Labeled Worksheets in Snowflake.
+### 3. Exploratory Data Analyses in the Respective Labeled Worksheets in Snowflake.
 
 ### Visualizations are as labeled in the Repo
