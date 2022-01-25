@@ -4,7 +4,7 @@
 
 ## Below is the Dimensional Model Design Diagram for the Billing Data Mart.
 
-![alt text](https://github.com/mbkimani/carepay_assignment/main/BillingDataMart.jpg?raw=true)
+![alt text](https://github.com/mbkimani/carepay_assignment/blob/main/BillingDataMart.jpg?raw=true)
 
 ## Exploratory Data Analyses in the Respective Labeled Worksheets in Snowflake.
 
